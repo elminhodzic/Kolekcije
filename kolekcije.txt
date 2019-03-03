@@ -3,3 +3,6 @@ drugi
 treci
 cetvrti
 peti
+prvi
+drugi
+treci
